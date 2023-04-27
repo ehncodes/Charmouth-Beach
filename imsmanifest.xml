@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5brt3xGIiWV" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Charmouth Beach</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Charmouth_Beach_ORG">
+    <organization identifier="Charmouth_Beach_ORG">
+      <title>Charmouth Beach</title>
+      <item identifier="Charmouth_Beach_SCO" isvisible="true" identifierref="__5brt3xGIiWV_RES">
+        <title>Charmouth Beach</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5brt3xGIiWV_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/639GBcX7ond_full.jpg" />
+      <file href="story_content/639GBcX7ond_half.jpg" />
+      <file href="story_content/639GBcX7ond.js" />
+      <file href="mobile/6SS1kFa12gT.png" />
+      <file href="story_content/6exzr8qhUJT_full.jpg" />
+      <file href="story_content/6exzr8qhUJT_half.jpg" />
+      <file href="story_content/6exzr8qhUJT.js" />
+      <file href="story_content/6o5soy3MvZa_full.jpg" />
+      <file href="story_content/6o5soy3MvZa_half.jpg" />
+      <file href="story_content/6o5soy3MvZa.js" />
+      <file href="story_content/6n5uoLV1De0_full.jpg" />
+      <file href="story_content/6n5uoLV1De0_half.jpg" />
+      <file href="story_content/6n5uoLV1De0.js" />
+      <file href="story_content/6WzB40sg6xi_full.jpg" />
+      <file href="story_content/6WzB40sg6xi_half.jpg" />
+      <file href="story_content/6WzB40sg6xi.js" />
+      <file href="story_content/5bl5kBuSJ9B_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6AhruICTW7t.png" />
+      <file href="mobile/Shape6CfJ7Luho46.png" />
+      <file href="mobile/Shape6JrLbwrUqi3.png" />
+      <file href="mobile/Shape5lwawDK3wEA.png" />
+      <file href="mobile/Shape5kz9nsvUrrZ.png" />
+      <file href="mobile/Shape632jPO4ngz2.png" />
+      <file href="mobile/Shape6Nh8ABN7a8Q.png" />
+      <file href="mobile/Shape6RPhrmsPaZo.png" />
+      <file href="mobile/Shape6209CIzUGnm.png" />
+      <file href="mobile/Shape5l6UyTtIcHW.png" />
+      <file href="mobile/Shape5qTaoQX7fcv.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/6cLcRXIhlMu.js" />
+      <file href="html5/data/js/6pqvMN6A1jY.js" />
+      <file href="html5/data/js/6qeBIh9ZNNe.js" />
+      <file href="html5/data/js/6V8h4l5mYnh.js" />
+      <file href="html5/data/js/6VktwksqoiR.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/three.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
